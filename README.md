@@ -26,11 +26,9 @@ After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+ 
 
-  <h3><b>Microverse README Template</b></h3>
+  <h1><b>Hello! Microverse</b></h1>
 
 </div>
 
@@ -38,11 +36,10 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
+- [📖 Hello Microverse](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -60,34 +57,32 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello Microverse Project  <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This is a project work meant by Microverse to show the power of linter in HTML and CSS.
 
-**[your_project__name]** is a...
+**Hello Microverse** is the only message, and linter will its check on html and the css.
 
 ## 🛠 Built With <a name="built-with"></a>
+HTML and CSS
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
+  
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>VS Code</summary>
   <ul>
     <li><a href="https://expressjs.com/">Express.js</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Database</summary>
+<summary>Github</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
@@ -96,61 +91,43 @@ After you're finished please remove all the comments and instructions!
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<details>
+ <summary>Linter instullation usage</summary>
+ </details>
+ <details>
+ <summary>Html and Css functions</summary>
+ </details>
+<p></p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
-To get a local copy up and running, follow these steps.
+To get a local copy up and running, follow these steps:
 
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+<details>
+ <summary>VS Code</summary>
+ </details>
+ <details>
+ <summary>Github</summary>
+ </details>
+ <details>
+ <summary>Git</summary>
+ </details>
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder: Using git clone
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
 
 ### Install
 
-Install this project with:
+Install this project with: cd Hello-Microverse-Project
 
 <!--
 Example command:
@@ -163,7 +140,8 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command: npm command
+>GitHub Pages Server
 
 <!--
 Example command:
@@ -175,8 +153,8 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:
-
+To run tests:  run the following command:
+>npx stylelint "**/*.{css,scss}"
 <!--
 Example command:
 
@@ -187,7 +165,8 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
+You can deploy this project using git command:
+>git@github.com:Ejikeokegbe/Hello-Microverse-Project.git
 
 <!--
 Example:
@@ -197,37 +176,26 @@ Example:
 ```
  -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+<h2>Okegbe Clifford Ejike</h2>
 
-👤 **Author1**
+- GitHub: [@gEjikeokegbe](https://github.com/Ejikeokegbe)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [Ejikeokegbe](https://linkedin.com/in/Ejikeokegbe)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Making it user friendly**
+- [ ] **Responsive**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,9 +213,10 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+> Readers Your support to the project on this channel:
+>git@https://github.com/Ejikeokegbe/Hello-Microverse-Project.git
 
-If you like this project...
+If you like this project support through the link.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,17 +224,14 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse for their good job
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
@@ -283,6 +249,5 @@ I would like to thank...
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+<h2>Remain Great<h2>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
